@@ -1,0 +1,40 @@
+.logindiv{margin-left: 500px;
+    margin-right: 550px;
+    margin-top: 120px;
+    border-width: 100px,2px,2px,2px;
+border-style: solid;
+height: 500px;
+border-radius: 20px;
+border-color: rgb(24, 25, 25);
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  backdrop-filter: blur(7px);
+   background-color: rgba(0, 0, 0, 0.5); 
+
+}
+
+.info{padding-left: 2px;
+padding-top: 30px;}
+
+.write{
+    padding-left: 20px;
+    margin-left: 70px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    
+}
+body{
+    background-image: url(images/landscape\ bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.welcome{color: rgb(246, 248, 250);
+padding-left: 170px;}
+.btn {margin-left: 70px;
+    background-color: aliceblue;
+    width: 200px;
+    
+}
+.member{color: white;
+margin-left: 90px;}
